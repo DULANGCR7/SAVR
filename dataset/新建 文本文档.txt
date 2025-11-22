@@ -1,0 +1,2 @@
+http://yann.lecun.com/exdb/mnist/
+https://www.cs.toronto.edu/~kriz/cifar.html
